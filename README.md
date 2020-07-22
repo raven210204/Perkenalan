@@ -5,4 +5,7 @@
 # Pendidikan terakhir : SMP
 # Hobi : Olahraga dan Bermain Musik
 # IG : @anugrahh_d
-# Foto Saya
+----------------------------------------------------------------
+# Foto saya
+
+![alt text](https://github.com/raven210204/Perkenalan/blob/master/IMG_2202.jpg)
